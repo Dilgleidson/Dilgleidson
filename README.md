@@ -24,8 +24,6 @@
   <img align="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div></br></br>
 
-Apaixonado por tecnologia, educação e saber que através dos meus conhecimentos</br>
-posso mudar a vida das pessoas com a programação. 👊🔥</br>
 <p style="display: inline_block">
   No momento o foco principal está nas tecnologias:&#160; &#160;
   <img align="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
